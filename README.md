@@ -15,4 +15,10 @@ https://jingyan.baidu.com/article/f7ff0bfc115a292e26bb1325.html
 (4)Arduino UNO 使用按钮控制LED  
 https://jingyan.baidu.com/article/a65957f4e358d924e67f9bad.html  
 
+(5)Arduino 蜂鸣器报警实验  
+https://jingyan.baidu.com/article/295430f1c4fc9e0c7e0050ad.html  
+
+(6)Arduino 互动跑马灯  
+https://jingyan.baidu.com/article/4b52d702a023a5fc5c774b39.html  
+
 
